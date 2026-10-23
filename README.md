@@ -2,9 +2,11 @@
 
 **中文** · [English](#english)
 
-我做能把重复劳动变成一条命令的工具。没有传统工程背景，靠 Agent 把想法做成能跑的东西——**代码对我来说是表达的媒介，不是目的。**
+音乐生。白天练琴，晚上折腾 AI Agent。
 
-把工作流开源，就是最强的 Learn in Public。
+没什么工程背景，但脑子里总冒出「这个要是能自动就好了」——于是做了拼豆图纸生成器、写代码的懒人模式、Windows 垃圾清理。不会写就从零问，问不明白就拆成一步一步，拆到能照着做为止。
+
+把想法做成真能用的东西，比想法本身有意思。工具都开源，随便拿去改。
 
 ---
 
@@ -52,7 +54,11 @@ npx skills add chengangrun-ai/pindou-gongzi
 
 ## English
 
-I build tools that turn repetitive work into a single command. No traditional engineering background — I use agents to ship ideas, and treat code as a medium for self-expression.
+A music student. Practice by day, tinker with AI agents by night.
+
+No engineering background — just a habit of thinking "this should be automatic". So I built a bead-pattern generator, a lazy-mode for writing code, a Windows junk cleaner. When I do not know how, I ask from zero, then break it down until it is step-by-step doable.
+
+Making an idea actually work beats the idea itself. Everything here is open — take it and change it.
 
 Everything here is in the [Agent Skills](https://agentskills.io/specification) open format. Install with `npx skills add chengangrun-ai/<repo>`.
 
