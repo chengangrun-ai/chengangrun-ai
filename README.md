@@ -22,7 +22,7 @@
 
 ### 🏗️ 编程工作流
 
-🏗️ [camiai-programming-workflow](https://github.com/chengangrun-ai/camiaiai-programming-workflow) — 从 MVP 规划到人工验收的五步编程流程
+🏗️ [camiai-programming-workflow](https://github.com/chengangrun-ai/camiai-programming-workflow) — 从 MVP 规划到人工验收的五步编程流程
 
 🦥 [gongzi-teaches-code](https://github.com/chengangrun-ai/gongzi-teaches-code) — 公子教代码做事：写之前先问「这段代码真的需要写吗」
 
