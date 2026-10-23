@@ -2,11 +2,11 @@
 
 **中文** · [English](#english)
 
-音乐生。白天练琴，晚上折腾 AI Agent。
+音乐生，不会写代码。
 
-没什么工程背景，但脑子里总冒出「这个要是能自动就好了」——于是做了拼豆图纸生成器、写代码的懒人模式、Windows 垃圾清理。不会写就从零问，问不明白就拆成一步一步，拆到能照着做为止。
+但我会用 AI Agent 把「要是能自动就好了」变成真能跑的工具。
 
-把想法做成真能用的东西，比想法本身有意思。工具都开源，随便拿去改。
+拼豆图纸、懒人编程、垃圾清理，都是这么来的。
 
 ---
 
@@ -54,11 +54,11 @@ npx skills add chengangrun-ai/pindou-gongzi
 
 ## English
 
-A music student. Practice by day, tinker with AI agents by night.
+A music student. I do not write code.
 
-No engineering background — just a habit of thinking "this should be automatic". So I built a bead-pattern generator, a lazy-mode for writing code, a Windows junk cleaner. When I do not know how, I ask from zero, then break it down until it is step-by-step doable.
+But I use AI agents to turn "this should be automatic" into tools that actually run.
 
-Making an idea actually work beats the idea itself. Everything here is open — take it and change it.
+Bead patterns, lazy coding, junk cleanup — all came from that.
 
 Everything here is in the [Agent Skills](https://agentskills.io/specification) open format. Install with `npx skills add chengangrun-ai/<repo>`.
 
