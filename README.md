@@ -18,8 +18,6 @@
 
 🎨 [公子图纸原创](https://github.com/chengangrun-ai/gongzi-original) — 看一批参考图，学出画风，再生成一整套原创图纸（15 种画风 / 85 个造型）
 
-✏️ [手绘动画](https://github.com/chengangrun-ai/clawd-animation) — 手绘动画与短视频的生成流程
-
 ### 🏗️ 编程工作流
 
 🏗️ [camiAI 编程全流程](https://github.com/chengangrun-ai/camiai-programming-workflow) — 从 MVP 规划到人工验收的五步编程流程
