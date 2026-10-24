@@ -24,17 +24,7 @@
 
 🏗️ [camiAI 编程全流程](https://github.com/chengangrun-ai/camiai-programming-workflow) — 从 MVP 规划到人工验收的五步编程流程
 
-🦥 [公子教代码做事](https://github.com/chengangrun-ai/gongzi-teaches-code) — 写之前先问「这段代码真的需要写吗」，按阶梯找现成的、标准库的、一行的，都不行才动手
-
-🔍 [公子教代码做事 · 整仓审计](https://github.com/chengangrun-ai/gongzi-teaches-code-audit) — 扫整个仓库，按「还能砍掉多少」从大到小列出可删可简的地方
-
-📒 [公子教代码做事 · 欠账本](https://github.com/chengangrun-ai/gongzi-teaches-code-debt) — 把「以后再说」的注释收成一张表，写清简化了什么、什么时候该还
-
-🧐 [公子教代码做事 · 改动审查](https://github.com/chengangrun-ai/gongzi-teaches-code-review) — 只看这次改动，判断有没有多余抽象、重复代码、可以删的分支
-
-📊 [公子教代码做事 · 效果看板](https://github.com/chengangrun-ai/gongzi-teaches-code-gain) — 统计用之前之后代码量、依赖数、构建时间的变化
-
-🃏 [公子教代码做事 · 速查卡](https://github.com/chengangrun-ai/gongzi-teaches-code-help) — 全部档位、命令和切换方式一页看完
+🦥 [公子教代码做事](https://github.com/chengangrun-ai/gongzi-teaches-code) — 写之前先问「这段代码真的需要写吗」；含整仓审计 / 欠账本 / 改动审查 / 效果看板 / 速查卡 五个配套
 
 ### 🔧 效率工具
 
