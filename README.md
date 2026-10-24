@@ -14,35 +14,35 @@
 
 ### 🧩 创意与设计
 
-🧩 [pindou-gongzi](https://github.com/chengangrun-ai/pindou-gongzi) — 把任何图片变成拼豆图纸：四张成品图 + 带色号图纸 + 文案台账
+🧩 [拼豆公子](https://github.com/chengangrun-ai/pindou-gongzi) — 把任何图片变成拼豆图纸：四张成品图 + 带色号图纸 + 文案台账
 
-🎨 [gongzi-original](https://github.com/chengangrun-ai/gongzi-original) — 看一批参考图，学出画风，再生成一整套原创图纸（15 种画风 / 85 个造型）
+🎨 [公子图纸原创](https://github.com/chengangrun-ai/gongzi-original) — 看一批参考图，学出画风，再生成一整套原创图纸（15 种画风 / 85 个造型）
 
-✏️ [clawd-animation](https://github.com/chengangrun-ai/clawd-animation) — 手绘动画与短视频的生成流程
+✏️ [手绘动画](https://github.com/chengangrun-ai/clawd-animation) — 手绘动画与短视频的生成流程
 
 ### 🏗️ 编程工作流
 
-🏗️ [camiai-programming-workflow](https://github.com/chengangrun-ai/camiai-programming-workflow) — 从 MVP 规划到人工验收的五步编程流程
+🏗️ [camiAI 编程全流程](https://github.com/chengangrun-ai/camiai-programming-workflow) — 从 MVP 规划到人工验收的五步编程流程
 
-🦥 [gongzi-teaches-code](https://github.com/chengangrun-ai/gongzi-teaches-code) — 公子教代码做事：写之前先问「这段代码真的需要写吗」
+🦥 [公子教代码做事](https://github.com/chengangrun-ai/gongzi-teaches-code) — 写之前先问「这段代码真的需要写吗」，按阶梯找现成的、标准库的、一行的，都不行才动手
 
-🔍 [gongzi-teaches-code-audit](https://github.com/chengangrun-ai/gongzi-teaches-code-audit) — 整仓审计，按「还能砍掉多少」排序列出
+🔍 [公子教代码做事 · 整仓审计](https://github.com/chengangrun-ai/gongzi-teaches-code-audit) — 扫整个仓库，按「还能砍掉多少」从大到小列出可删可简的地方
 
-📒 [gongzi-teaches-code-debt](https://github.com/chengangrun-ai/gongzi-teaches-code-debt) — 欠账本：把「以后再说」的注释收成一张表
+📒 [公子教代码做事 · 欠账本](https://github.com/chengangrun-ai/gongzi-teaches-code-debt) — 把「以后再说」的注释收成一张表，写清简化了什么、什么时候该还
 
-🧐 [gongzi-teaches-code-review](https://github.com/chengangrun-ai/gongzi-teaches-code-review) — 只看这次改动，判断有没有多余抽象
+🧐 [公子教代码做事 · 改动审查](https://github.com/chengangrun-ai/gongzi-teaches-code-review) — 只看这次改动，判断有没有多余抽象、重复代码、可以删的分支
 
-📊 [gongzi-teaches-code-gain](https://github.com/chengangrun-ai/gongzi-teaches-code-gain) — 效果看板：用数字说明省了多少
+📊 [公子教代码做事 · 效果看板](https://github.com/chengangrun-ai/gongzi-teaches-code-gain) — 统计用之前之后代码量、依赖数、构建时间的变化
 
-🃏 [gongzi-teaches-code-help](https://github.com/chengangrun-ai/gongzi-teaches-code-help) — 速查卡：全部档位和命令一页看完
+🃏 [公子教代码做事 · 速查卡](https://github.com/chengangrun-ai/gongzi-teaches-code-help) — 全部档位、命令和切换方式一页看完
 
 ### 🔧 效率工具
 
-🧹 [cleanup-junk](https://github.com/chengangrun-ai/cleanup-junk) — Windows 垃圾清理：先扫描出报告，确认后才动手
+🧹 [Windows 垃圾清理](https://github.com/chengangrun-ai/cleanup-junk) — 先扫描出报告，确认后才动手，删除一律进回收站
 
-⚙️ [mt5-ex5-fallback](https://github.com/chengangrun-ai/mt5-ex5-fallback) — MT5 EA 编译兜底：沙箱编不出 .ex5 时的替代路径
+⚙️ [MT5 编译兜底](https://github.com/chengangrun-ai/mt5-ex5-fallback) — 沙箱编不出 .ex5 时的替代路径
 
-🔭 [agent-reach](https://github.com/chengangrun-ai/agent-reach) — 跨平台调研搜索，一次查清一个话题
+🔭 [跨平台调研](https://github.com/chengangrun-ai/agent-reach) — 跨平台调研搜索，一次查清一个话题
 
 ---
 
