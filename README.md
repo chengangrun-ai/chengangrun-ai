@@ -4,23 +4,11 @@
 
 重本音乐院校毕业，却是一名全职交易员和营养师，完完全全不会写代码。
 
-但我用 AI Agent 把「要是有人能替我干活就好了」变成了一个个真实跑起来的产品：交易平台、拼豆图纸、懒人编程、垃圾清理，都是这么来的。
+但我用 AI Agent 把「要是有人能替我干活就好了」变成了一个个真实跑起来的产品：交易平台、拼豆图纸、懒人编程、相册清理、垃圾清理，都是这么来的。
 
 接下来我还打算继续捣鼓更多东西，希望你也一起参与。
 
 🌍 [开源官网](https://opensourceoss.pages.dev/) · 📱 [下载 APP](https://opensourceoss.pages.dev/download) · 🧩 [全部仓库](https://github.com/chengangrun-ai?tab=repositories)
-
----
-
-## 作品一览
-
-| <img src="https://raw.githubusercontent.com/chengangrun-ai/shanleme/main/screenshots/03-swipe.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/pindou-gongzi/main/screenshots/halloween-kitty-compare.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-original/main/screenshots/overview-ukiyoe.png" width="100%"> |
-| :---: | :---: | :---: |
-| **[删了么](https://github.com/chengangrun-ai/shanleme)**<br>滑卡整理相册：左滑删 · 右滑留 · 上滑精选 | **[拼豆公子](https://github.com/chengangrun-ai/pindou-gongzi)**<br>一张图变成四张成品图 + 带色号图纸 | **[公子图纸原创](https://github.com/chengangrun-ai/gongzi-original)**<br>学出画风，再生成一整套原创图纸 |
-
-| <img src="https://raw.githubusercontent.com/chengangrun-ai/opensourceoss/main/docs/screenshots/01-home-desktop.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/01-main.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/cleanup-junk/main/screenshots/hero.png" width="100%"> |
-| :---: | :---: | :---: |
-| **[开源 Open Source](https://github.com/chengangrun-ai/opensourceoss)**<br>交易平台：免费 TV 指标 · 量化信号 · 安卓 APP | **[公子教代码做事](https://github.com/chengangrun-ai/gongzi-teaches-code)**<br>写之前先问：这段代码真的需要写吗 | **[Windows 垃圾清理](https://github.com/chengangrun-ai/cleanup-junk)**<br>先扫描出报告，确认后才动手 |
 
 ---
 
@@ -39,11 +27,21 @@
 
 用得最多的几个。
 
+📱 [**删了么**](https://github.com/chengangrun-ai/shanleme) — 开源安卓 App：滑卡整理相册，左滑删 · 右滑留 · 上滑精选（真删功能还在做，先把代码放出来）
+
 🌍 [**开源 Open Source**](https://github.com/chengangrun-ai/opensourceoss) — 交易平台「开源」：免费 TV 指标 · 量化信号 · 一周集训课 · 安卓 APP
 
 🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) — 把任何图片变成拼豆图纸：四张成品图 + 带色号图纸 + 文案台账
 
 🏗️ [**camiAI 编程全流程**](https://github.com/chengangrun-ai/camiai-programming-workflow) — 跨产品 MVP 规划、Demo、技术方案、实现与人工验收的工作流 Skill
+
+---
+
+## 📱 自己写的 App
+
+不会写代码，但做出来的东西能装到手机上。
+
+📱 [**删了么**](https://github.com/chengangrun-ai/shanleme) — 相册滑卡清理：左滑删 · 右滑留 · 上滑精选。Expo + React Native，代码全公开，真删功能还在做
 
 ---
 
@@ -95,7 +93,7 @@ npx skills add chengangrun-ai/pindou-gongzi
 
 A music-school graduate. Full-time trader and nutritionist. I do not write code.
 
-But I use AI agents to turn "this should be automatic" into products that actually run — including [Open Source](https://opensourceoss.pages.dev/), a trading-education platform with free TradingView indicators, quant signals and an Android app.
+But I use AI agents to turn "this should be automatic" into products that actually run — including [Open Source](https://opensourceoss.pages.dev/), a trading-education platform with free TradingView indicators, quant signals and an Android app, and [删了么](https://github.com/chengangrun-ai/shanleme), an open-source app that cleans your camera roll by swiping.
 
 Everything here is in the [Agent Skills](https://agentskills.io/specification) open format. Install with `npx skills add chengangrun-ai/<repo>`.
 
