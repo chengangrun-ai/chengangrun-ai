@@ -12,6 +12,18 @@
 
 ---
 
+## 作品一览
+
+| <img src="https://raw.githubusercontent.com/chengangrun-ai/shanleme/main/screenshots/03-swipe.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/pindou-gongzi/main/screenshots/halloween-kitty-compare.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-original/main/screenshots/overview-ukiyoe.png" width="100%"> |
+| :---: | :---: | :---: |
+| **[删了么](https://github.com/chengangrun-ai/shanleme)**<br>滑卡整理相册：左滑删 · 右滑留 · 上滑精选 | **[拼豆公子](https://github.com/chengangrun-ai/pindou-gongzi)**<br>一张图变成四张成品图 + 带色号图纸 | **[公子图纸原创](https://github.com/chengangrun-ai/gongzi-original)**<br>学出画风，再生成一整套原创图纸 |
+
+| <img src="https://raw.githubusercontent.com/chengangrun-ai/opensourceoss/main/docs/screenshots/01-home-desktop.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/01-main.png" width="100%"> | <img src="https://raw.githubusercontent.com/chengangrun-ai/cleanup-junk/main/screenshots/hero.png" width="100%"> |
+| :---: | :---: | :---: |
+| **[开源 Open Source](https://github.com/chengangrun-ai/opensourceoss)**<br>交易平台：免费 TV 指标 · 量化信号 · 安卓 APP | **[公子教代码做事](https://github.com/chengangrun-ai/gongzi-teaches-code)**<br>写之前先问：这段代码真的需要写吗 | **[Windows 垃圾清理](https://github.com/chengangrun-ai/cleanup-junk)**<br>先扫描出报告，确认后才动手 |
+
+---
+
 ## 🆕 最新：开源 · Open Source
 
 **交易领域的极致开源网站** —— 免费 TV 指标、量化信号、软件工具、一周集训课、合作券商，安卓 APP 直接装，一个入口全给。
