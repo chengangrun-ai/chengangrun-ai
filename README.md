@@ -37,11 +37,13 @@
 
 ---
 
-## 📱 自己写的 App
+## 📱 自己写的软件
 
-不会写代码，但做出来的东西能装到手机上。
+不会写代码，但做出来的东西真能跑、能装到手机上。
 
-📱 [**删了么**](https://github.com/chengangrun-ai/shanleme) — 相册滑卡清理：左滑删 · 右滑留 · 上滑精选。Expo + React Native，代码全公开，真删功能还在做
+🌍 [**开源 Open Source**](https://github.com/chengangrun-ai/opensourceoss) — 交易平台网站 + 安卓 App：免费 TV 指标、量化信号、一周集训课、合作券商。[线上已经跑起来了](https://opensourceoss.pages.dev/)
+
+📱 [**删了么**](https://github.com/chengangrun-ai/shanleme) — 相册滑卡清理 App：左滑删 · 右滑留 · 上滑精选。Expo + React Native，代码全公开，真删功能还在做
 
 ---
 
