@@ -2,13 +2,17 @@
 
 <img src="https://raw.githubusercontent.com/chengangrun-ai/wordbridge/main/assets/gongzi.png" width="96" alt="Cami" />
 
-# 嗨，我是 Cami 👋
+<h1>嗨，我是 Cami 👋</h1>
 
-**不会写代码，但我让 AI 把想法跑成了能用的产品。**
+<p><strong>不会写代码，但我让 AI 把想法跑成了能用的产品。</strong></p>
 
-重本音乐院校毕业 · 全职交易员 · 营养师
+<p>重本音乐院校毕业 · 全职交易员 · 营养师</p>
 
-[🌍 开源官网](https://opensourceoss.pages.dev/) ｜ [🧩 全部仓库](https://github.com/chengangrun-ai?tab=repositories) ｜ [📱 下载 App](https://opensourceoss.pages.dev/download)
+<p>
+<a href="https://opensourceoss.pages.dev/">🌍 开源官网</a> ｜
+<a href="https://github.com/chengangrun-ai?tab=repositories">🧩 全部仓库</a> ｜
+<a href="https://opensourceoss.pages.dev/download">📱 下载 App</a>
+</p>
 
 </div>
 
@@ -37,9 +41,9 @@
 <img src="https://raw.githubusercontent.com/chengangrun-ai/wordbridge/main/assets/preview-context.png" width="640" alt="候选词右侧显示英文释义" />
 
 10.9 万条中文词的英文释义（CC-CEDICT）· 2.5 万词 IPA 音标（ECDICT）· 1.07 万词等级标签，5.97 MB 纯文本，**全程离线**。
-装在 Windows 的清风输入法上，双击一个 `.bat` 装好，改配置前自动备份，随时可回滚。
+装在 Windows 的清风输入法上，双击一个 bat 就装好，改配置前自动备份，随时可回滚。
 
-<sub>`Python` · `GPL-3.0` · Windows</sub>
+<sub>Python · GPL-3.0 · Windows</sub>
 
 ---
 
@@ -50,39 +54,54 @@
 ### 💹 交易与金融
 
 [**开源 · Open Source**](https://github.com/chengangrun-ai/opensourceoss) — 交易领域的极致开源网站
+
 免费 TradingView 指标 · 量化信号 · 软件工具 · 一周集训课 · 合作券商，安卓 App 直接装，一个入口全给。
-<sub>`HTML` · `Cloudflare Pages` · [线上已跑起来](https://opensourceoss.pages.dev/)</sub>
+
+<img src="docs/banner.jpg" alt="开源 Open Source" width="100%" />
+
+<sub>HTML · Cloudflare Pages · [线上已跑起来](https://opensourceoss.pages.dev/)</sub>
 
 ### 📖 语言与学习
 
 [**公子输入法 · WordBridge**](https://github.com/chengangrun-ai/wordbridge) — 打字即学英语
-打拼音出中文，候选旁挂英文释义 + 音标 + 等级标签。10.9 万条词库，完全离线。
-<sub>`Python` · `GPL-3.0` · [见上方](#-刚刚开源)</sub>
+
+打拼音出中文，候选旁挂英文释义 + 音标 + 等级标签；10.9 万条词库，完全离线，不碰你上屏的字。
+
+<sub>Python · GPL-3.0 · Windows · [详情见上方](#-刚刚开源)</sub>
 
 ### 📱 手机 App
 
 [**删了么**](https://github.com/chengangrun-ai/shanleme) — 滑卡整理相册：左滑删 · 右滑留 · 上滑精选
-把「判断」和「操作」拆开，手只负责判断，一秒一张，删除攒到最后统一做一次。
-<sub>`TypeScript` · `Expo / React Native` · `MIT` · ⚠️ 真删功能还在做</sub>
+
+把「判断」和「操作」拆开，手只负责判断，一秒一张；删除的动作攒到最后统一做一次。
+
+<sub>TypeScript · Expo / React Native · MIT · ⚠️ 真删功能还在做</sub>
 
 ### 🎨 图像与创意
 
 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) — 把任何图片变成拼豆图纸
-四张成品图 + 带色号图纸 + 可直接发布的文案台账，一条命令跑完。附 12 条真实踩坑记录。
-<sub>`Python` · `MIT` · 命令行</sub>
+
+四张成品图 + 带色号图纸 + 可直接发布的文案台账，一条命令跑完；附 12 条真实踩坑记录。
+
+<sub>Python · MIT · 命令行</sub>
 
 [**公子图纸原创**](https://github.com/chengangrun-ai/gongzi-original) — 参考图 → 一整套能卖、能举证原创的图纸
-参考图只用来「量」风格，画面全部由代码从零画。15 个风格包 / 85 个造型 / 168 款全量质量 0.922。
-<sub>`Python` · `MIT` · 命令行</sub>
+
+参考图只用来「量」风格（配色、线宽、纹理、构图），画面全部由代码从零画；15 个风格包 / 85 个造型 / 168 款全量质量 0.922。
+
+<sub>Python · MIT · 命令行</sub>
 
 ### 🏗️ AI 编程工作流
 
 [**camiAI 编程全流程**](https://github.com/chengangrun-ai/camiai-programming-workflow) — 五步从需求到验收
-环境搭建 → 产品设计（可跳）→ 技术设计（可跳）→ 实现 → 人工验证。拿到的是跑得起来、能回退的产品。
-<sub>Agent Skill · `MIT`</sub>
+
+环境搭建 → 产品设计（可跳）→ 技术设计（可跳）→ 实现 → 人工验证。拿到的是跑得起来、能回退的产品，不是一堆没验证的代码。
+
+<sub>Agent Skill · MIT</sub>
 
 [**公子教代码做事**](https://github.com/chengangrun-ai/gongzi-teaches-code) — 写之前先问「这段代码真的需要写吗」
-一个主技能 + 五个配套，从动手前拦一下，到事后查账。
+
+一个主技能 + 五个配套，从动手前拦一下，到事后查账。六步走完，常常是零行代码或者一行。
 
 <details>
 <summary>五个配套仓库</summary>
@@ -100,15 +119,21 @@
 ### 🔧 效率工具
 
 [**Windows 垃圾清理**](https://github.com/chengangrun-ai/cleanup-junk) — 先扫描出报告，确认后才动手
-删除一律进回收站，绝不碰桌面、文档、下载等个人目录。仅支持 Windows。
-<sub>`PowerShell` · Agent Skill</sub>
 
-[**MT5 编译兜底**](https://github.com/chengangrun-ai/mt5-ex5-fallback) — 沙箱编不出 `.ex5` 时的替代路径
-MetaEditor 报 `0xC0000139`、安装包被拦、需要认证时，一键本地编译脚本直接放到桌面。
+删除一律进回收站，绝不碰桌面、文档、下载等个人目录。仅支持 Windows。
+
+<sub>PowerShell · Agent Skill</sub>
+
+[**MT5 编译兜底**](https://github.com/chengangrun-ai/mt5-ex5-fallback) — 沙箱编不出 .ex5 时的替代路径
+
+MetaEditor 报 0xC0000139、安装包被拦、需要认证时，一键本地编译脚本直接放到桌面。
+
 <sub>Agent Skill · MetaTrader 5</sub>
 
 [**跨平台调研**](https://github.com/chengangrun-ai/agent-reach) — 一次查清一个话题
+
 零配置起步，多通道并行检索，把散在各处的说法收成一份能看的结论。
+
 <sub>Agent Skill</sub>
 
 ---
@@ -133,7 +158,7 @@ A music-school graduate. Full-time trader and nutritionist. **I don't write code
 
 I use AI agents to turn "this should be automatic" into products that actually run:
 
-- **[WordBridge](https://github.com/chengangrun-ai/wordbridge)** — a Chinese IME candidate layer that shows English gloss, IPA and exam-level tags while you type. Offline, 109k entries, GPL-3.0.
+- **[WordBridge](https://github.com/chengangrun-ai/wordbridge)** — a Chinese IME candidate layer showing English gloss, IPA and exam-level tags while you type. Offline, 109k entries, GPL-3.0.
 - **[Open Source](https://opensourceoss.pages.dev/)** — a trading-education platform: free TradingView indicators, quant signals, courses, Android app.
 - **[删了么](https://github.com/chengangrun-ai/shanleme)** — an open-source app that cleans your camera roll by swiping (Expo / React Native).
 - **[Pindou Gongzi](https://github.com/chengangrun-ai/pindou-gongzi)** — turn any image into a perler-bead pattern, with color codes and a caption ledger.
