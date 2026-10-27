@@ -38,8 +38,6 @@
 输入 pingguo   →  苹果   apple /ˈæpl/ 〔高考〕
 ```
 
-<img src="https://raw.githubusercontent.com/chengangrun-ai/wordbridge/main/assets/preview-context.png" width="640" alt="候选词右侧显示英文释义" />
-
 10.9 万条中文词的英文释义（CC-CEDICT）· 2.5 万词 IPA 音标（ECDICT）· 1.07 万词等级标签，5.97 MB 纯文本，**全程离线**。
 装在 Windows 的清风输入法上，双击一个 bat 就装好，改配置前自动备份，随时可回滚。
 
@@ -56,8 +54,6 @@
 [**开源 · Open Source**](https://github.com/chengangrun-ai/opensourceoss) — 交易领域的极致开源网站
 
 免费 TradingView 指标 · 量化信号 · 软件工具 · 一周集训课 · 合作券商，安卓 App 直接装，一个入口全给。
-
-<img src="docs/banner.jpg" alt="开源 Open Source" width="100%" />
 
 <sub>HTML · Cloudflare Pages · [线上已跑起来](https://opensourceoss.pages.dev/)</sub>
 
