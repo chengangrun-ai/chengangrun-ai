@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chengangrun-ai/wordbridge/main/assets/gongzi.png" width="96" alt="Cami" />
-
 <h1>嗨，我是 Cami 👋</h1>
 
 <p><strong>不会写代码，但我让 AI 把想法跑成了能用的产品。</strong></p>
