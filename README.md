@@ -28,7 +28,7 @@
 
 ### [公子输入法 · WordBridge](https://github.com/chengangrun-ai/wordbridge)
 
-打字即学英语。你打拼音出中文，候选词旁边挂着**英文释义 + 音标 + 考试等级**，上屏永远是中文——不弹窗、不改字、不打断打字节奏。
+**边打字边学英语**。你打拼音出中文，候选词旁边挂着**英文释义 + 音标 + 考试等级**，上屏永远是中文——不弹窗、不改字、不打断节奏。
 
 ```
 输入 diannao   →  电脑   computer /kəmˈpjuːtə/ 〔高考〕
@@ -57,7 +57,7 @@
 
 ### 📖 语言与学习
 
-[**公子输入法 · WordBridge**](https://github.com/chengangrun-ai/wordbridge) — 打字即学英语
+[**公子输入法 · WordBridge**](https://github.com/chengangrun-ai/wordbridge) — 边打字边学英语
 
 打拼音出中文，候选旁挂英文释义 + 音标 + 等级标签；10.9 万条词库，完全离线，不碰你上屏的字。
 
