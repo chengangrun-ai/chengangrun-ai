@@ -18,28 +18,29 @@
 
 重本音乐院校毕业，却是一名全职交易员和营养师，完完全全不会写代码。
 
-但我用 AI Agent 把「要是有人能替我干活就好了」变成了一个个真实跑起来的产品：交易平台、输入法、拼豆图纸、相册清理、垃圾清理，都是这么来的。
+但我用 AI Agent 把「要是有人能替我干活就好了」变成了一个个真实跑起来的产品：交易平台、输入法、简历工具、拼豆图纸、相册清理、垃圾清理，都是这么来的。
 
-**10 个项目 · 15 个公开仓库 · 代码全在里面。** 接下来还会继续捣鼓，希望你也一起参与。
+**11 个项目 · 16 个公开仓库 · 代码全在里面。** 接下来还会继续捣鼓，希望你也一起参与。
 
 ---
 
 ## 🆕 刚刚开源
 
-### [公子输入法 · WordBridge](https://github.com/chengangrun-ai/wordbridge)
+### [公子简历作坊 · CV Studio](https://github.com/chengangrun-ai/cv-studio)
 
-**边打字边学英语**。你打拼音出中文，候选词旁边挂着**英文释义 + 音标 + 考试等级**，上屏永远是中文——不弹窗、不改字、不打断节奏。
+**一份数据，四套版式，六道体检。** 左边填资料，中间实时变，右边告诉你这份简历机器到底读不读得懂。
+
+不是拍脑袋定的：先把五个开源简历工具拆开量了一遍——51 份语料、3 个解析器、98 条测量，量出六种死法。最狠的是双栏版式，文字还原率 100%，字段顺序 **0%**。
 
 ```
-输入 diannao   →  电脑   computer /kəmˈpjuːtə/ 〔高考〕
-输入 xuexi     →  学习   to learn; to study 〔高考〕
-输入 pingguo   →  苹果   apple /ˈæpl/ 〔高考〕
+单栏纯文本  →  还原 100% · 顺序 100%
+双栏侧边栏  →  还原 100% · 顺序   0%
+图片型 PDF  →  还原   0% · 顺序   0%
 ```
 
-10.9 万条中文词的英文释义（CC-CEDICT）· 2.5 万词 IPA 音标（ECDICT）· 1.07 万词等级标签，5.97 MB 纯文本，**全程离线**。
-装在 Windows 的清风输入法上，双击一个 bat 就装好，改配置前自动备份，随时可回滚。
+所以版式天生安全：单栏、姓名在首块、有文字层，三条由渲染器保证；剩下三条内容项你自己决定。四套皮肤换着看——衬线学术 / 工程等宽 / 极简无衬线 / 中文国企。微信或邮箱登录，手机电脑打开是同一份。
 
-<sub>Python · GPL-3.0 · Windows</sub>
+<sub>HTML · 零依赖 · MCP 服务器 · [线上直接用](https://gongzi-cv.app.workbuddy.host/?sharecode=AHSMNLSLAM)</sub>
 
 ---
 
@@ -59,9 +60,17 @@
 
 [**公子输入法 · WordBridge**](https://github.com/chengangrun-ai/wordbridge) — 边打字边学英语
 
-打拼音出中文，候选旁挂英文释义 + 音标 + 等级标签；10.9 万条词库，完全离线，不碰你上屏的字。
+你打拼音出中文，候选词旁边挂着**英文释义 + 音标 + 考试等级**，上屏永远是中文——不弹窗、不改字、不打断节奏。
 
-<sub>Python · GPL-3.0 · Windows · [详情见上方](#-刚刚开源)</sub>
+```
+输入 diannao   →  电脑   computer /kəmˈpjuːtə/ 〔高考〕
+输入 xuexi     →  学习   to learn; to study 〔高考〕
+输入 pingguo   →  苹果   apple /ˈæpl/ 〔高考〕
+```
+
+10.9 万条中文词的英文释义 · 2.5 万词 IPA 音标 · 1.07 万词等级标签，5.97 MB 纯文本，全程离线。装在 Windows 的清风输入法上，双击一个 bat 就装好，改配置前自动备份。
+
+<sub>Python · GPL-3.0 · Windows</sub>
 
 ### 📱 手机 App
 
@@ -112,6 +121,12 @@
 
 ### 🔧 效率工具
 
+[**公子简历作坊**](https://github.com/chengangrun-ai/cv-studio) — 写简历，顺手做六道机器可读性体检
+
+一份数据四套版式：衬线学术 / 工程等宽 / 极简无衬线 / 中文国企。登录后存云端，手机电脑打开是同一份。
+
+<sub>HTML · 零依赖 · MCP 服务器 · [线上直接用](https://gongzi-cv.app.workbuddy.host/?sharecode=AHSMNLSLAM)</sub>
+
 [**Windows 垃圾清理**](https://github.com/chengangrun-ai/cleanup-junk) — 先扫描出报告，确认后才动手
 
 删除一律进回收站，绝不碰桌面、文档、下载等个人目录。仅支持 Windows。
@@ -152,6 +167,7 @@ A music-school graduate. Full-time trader and nutritionist. **I don't write code
 
 I use AI agents to turn "this should be automatic" into products that actually run:
 
+- **[CV Studio](https://github.com/chengangrun-ai/cv-studio)** — a résumé builder with one dataset and four layouts, plus six machine-readability checks derived from measuring 51 résumés across 3 parsers.
 - **[WordBridge](https://github.com/chengangrun-ai/wordbridge)** — a Chinese IME candidate layer showing English gloss, IPA and exam-level tags while you type. Offline, 109k entries, GPL-3.0.
 - **[Open Source](https://opensourceoss.pages.dev/)** — a trading-education platform: free TradingView indicators, quant signals, courses, Android app.
 - **[删了么](https://github.com/chengangrun-ai/shanleme)** — an open-source app that cleans your camera roll by swiping (Expo / React Native).
