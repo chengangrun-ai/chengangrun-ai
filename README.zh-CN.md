@@ -12,6 +12,8 @@
 
 ## 🆕 最新：拼豆公子 v3.0 —— 在线版上线
 
+<p align="left"><a href="https://chengangrun-ai.github.io/pindou-gongzi/"><img src="https://raw.githubusercontent.com/chengangrun-ai/pindou-gongzi/main/assets/badges/live-demo.svg" alt="LIVE DEMO" height="28"></a> <a href="https://github.com/chengangrun-ai/pindou-gongzi"><img src="https://raw.githubusercontent.com/chengangrun-ai/pindou-gongzi/main/assets/badges/chart-spec.svg" alt="CHART SPEC" height="28"></a></p>
+
 丢一张图进来，出来的是能直接卖的整套素材：四张成品图、带色号的图纸、矢量交付包、发布台账。
 
 图纸规格这次跟参考站**完全对齐**——**3792 宽、每格 36px、色号 15px、每格一道浅边**。旧版把格子锁死 26px、色号只有 7px，客户一放大就糊，这就是根因。已修，并且量过：同坐标 1:1 裁片 + 放大 6 倍对照参考图，色号照样认得出。
