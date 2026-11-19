@@ -10,13 +10,16 @@
 
 ---
 
-## 🆕 最新：公子简历作坊
+## 🆕 最新：拼豆公子 v3.0 —— 在线版上线
 
-一份数据，四套版式，六道体检。左边填资料，中间实时变，右边告诉你这份简历机器到底读不读得懂。
+丢一张图进来，出来的是能直接卖的整套素材：四张成品图、带色号的图纸、矢量交付包、发布台账。
 
-不是拍脑袋定的：先把五个开源简历工具拆开量了一遍——51 份语料、3 个解析器、98 条测量，量出六种死法。最狠的是双栏版式，文字还原率 100%，字段顺序 0%。所以版式天生安全：单栏、姓名在首块、有文字层。
+图纸规格这次跟参考站**完全对齐**——**3792 宽、每格 36px、色号 15px、每格一道浅边**。旧版把格子锁死 26px、色号只有 7px，客户一放大就糊，这就是根因。已修，并且量过：同坐标 1:1 裁片 + 放大 6 倍对照参考图，色号照样认得出。
 
-📄 [**公子简历作坊**](https://github.com/chengangrun-ai/cv-studio)：写简历，顺手做六道机器可读性体检
+取色走豆莉塔引擎（MARD 291 色），同源 PNG 与参考站**逐格 0 差**。主件仍是 PNG；另附 SVG 和单页矢量 PDF，客户放大到 800% 也不糊。
+
+🧩 [**浏览器直接用**](https://chengangrun-ai.github.io/pindou-gongzi/) —— 免安装，图片全程本地处理、不上传
+📦 [**源码与 skill**](https://github.com/chengangrun-ai/pindou-gongzi)
 
 ---
 
@@ -32,7 +35,7 @@
 
 📱 [**删了么**](https://github.com/chengangrun-ai/shanleme) (0 stars) - 滑卡整理相册：左滑删 · 右滑留 · 上滑精选
 
-🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - 把任何图片变成拼豆图纸
+🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - 任何图片 → 能直接卖的拼豆图纸整套，规格对齐参考站。[在线版](https://chengangrun-ai.github.io/pindou-gongzi/)
 
 🏗️ [**camiAI 编程全流程**](https://github.com/chengangrun-ai/camiai-programming-workflow) (0 stars) - 五步从需求到验收
 
@@ -52,7 +55,7 @@
 
 把图片和想法，变成能直接拿去用的成品。
 
-🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - 把任何图片变成拼豆图纸
+🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - 任何图片 → 能直接卖的拼豆图纸整套，规格对齐参考站。[在线版](https://chengangrun-ai.github.io/pindou-gongzi/)
 
 🎨 [**公子图纸原创**](https://github.com/chengangrun-ai/gongzi-original) (0 stars) - 参考图 → 一整套能卖、能举证原创的图纸
 

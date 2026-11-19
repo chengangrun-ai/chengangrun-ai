@@ -10,13 +10,16 @@ But I use AI agents to turn「someone should automate this」into things that ac
 
 ---
 
-## 🆕 Latest: 公子简历作坊
+## 🆕 Latest: 拼豆公子 v3.0 — now with a live web app
 
-One dataset, four layouts, six checks. Fill in the left, watch it change in the middle, and see on the right whether a machine can actually read your résumé.
+Any image in, a sellable perler-bead pattern set out: four finished cards, a colour-coded chart, a vector delivery pack, and a posting ledger.
 
-Before building it I measured five open-source résumé tools — 51 samples, 3 parsers, 98 measurements — and found six ways a résumé dies. The worst: a two-column layout keeps 100% of the text but scrambles field order to 0%. So the layout is safe by construction: single column, name in the first block, a real text layer.
+The chart spec now matches the reference site exactly — **3792px wide, 36px per cell, 15px colour codes, a hairline edge on every cell**. The old build locked cells at 26px and codes at 7px, which is why it went blurry the moment a customer zoomed in. That is fixed, and measured: same-crop 1:1 and 6× zoom against the reference, codes still readable.
 
-📄 [**公子简历作坊**](https://github.com/chengangrun-ai/cv-studio)：Write a résumé, get six machine-readability checks on the side
+Colour matching runs on the DOLITA engine (MARD 291) — **zero cell difference** against the reference on the same PNG source. PNG stays the main deliverable; SVG and a single-page vector PDF come along so the customer can zoom to 800% without blur.
+
+🧩 [**Try it in the browser**](https://chengangrun-ai.github.io/pindou-gongzi/) — no install, images never leave your device
+📦 [**Source & skill**](https://github.com/chengangrun-ai/pindou-gongzi)
 
 ---
 
@@ -32,7 +35,7 @@ The ones I reach for the most.
 
 📱 [**删了么**](https://github.com/chengangrun-ai/shanleme) (0 stars) - Clean your camera roll by swiping: left to delete, right to keep, up to star
 
-🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - Turn any image into a perler-bead pattern
+🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - Any image → a sellable perler-bead pattern set, chart spec matched to the reference site. [Live app](https://chengangrun-ai.github.io/pindou-gongzi/)
 
 🏗️ [**camiAI 编程全流程**](https://github.com/chengangrun-ai/camiai-programming-workflow) (0 stars) - Five steps from requirement to sign-off
 
@@ -52,7 +55,7 @@ A trading platform, indicator tooling, and the bits that keep live accounts runn
 
 Turning images and ideas into things you can actually use.
 
-🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - Turn any image into a perler-bead pattern
+🧩 [**拼豆公子**](https://github.com/chengangrun-ai/pindou-gongzi) (0 stars) - Any image → a sellable perler-bead pattern set, chart spec matched to the reference site. [Live app](https://chengangrun-ai.github.io/pindou-gongzi/)
 
 🎨 [**公子图纸原创**](https://github.com/chengangrun-ai/gongzi-original) (0 stars) - A reference image becomes a full set of original, provably original patterns
 
